@@ -1,0 +1,74 @@
+﻿Uninstalling assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Removing EventLog source Svchost.
+Warning: The source Svchost is not registered on the local machine.
+Service Svchost is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Installing service Svchost...
+Service Svchost has been successfully installed.
+Creating EventLog source Svchost in log Application...
+Committing assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Uninstalling assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Removing EventLog source Svchost.
+Service Svchost is being removed from the system...
+Service Svchost was successfully removed from the system.
+Installing assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Installing service Svchost...
+Service Svchost has been successfully installed.
+Creating EventLog source Svchost in log Application...
+Committing assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Uninstalling assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Removing EventLog source Svchost.
+Service Svchost is being removed from the system...
+Service Svchost was successfully removed from the system.
+Installing assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Installing service Svchost...
+Service Svchost has been successfully installed.
+Creating EventLog source Svchost in log Application...
+Committing assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Uninstalling assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+Removing EventLog source Svchost.
+Service Svchost is being removed from the system...
+Service Svchost was successfully removed from the system.

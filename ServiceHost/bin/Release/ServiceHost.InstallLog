@@ -1,0 +1,21 @@
+﻿Installing assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.exe
+Uninstalling assembly 'D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.InstallLog
+   assemblypath = D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Release\ServiceHost.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

@@ -1,0 +1,9 @@
+D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe.config
+D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.exe
+D:\Project\ServiceHost\ServiceHost\ServiceHost\bin\Debug\ServiceHost.pdb
+D:\Project\ServiceHost\ServiceHost\ServiceHost\obj\Debug\ServiceHost.csproj.AssemblyReference.cache
+D:\Project\ServiceHost\ServiceHost\ServiceHost\obj\Debug\ServiceHost.ProjectInstaller.resources
+D:\Project\ServiceHost\ServiceHost\ServiceHost\obj\Debug\ServiceHost.csproj.GenerateResource.cache
+D:\Project\ServiceHost\ServiceHost\ServiceHost\obj\Debug\ServiceHost.csproj.CoreCompileInputs.cache
+D:\Project\ServiceHost\ServiceHost\ServiceHost\obj\Debug\ServiceHost.exe
+D:\Project\ServiceHost\ServiceHost\ServiceHost\obj\Debug\ServiceHost.pdb
